@@ -1,0 +1,11 @@
+# basic options
+title: A-test-blog
+author: AnranQ96
+email: x
+description: test blog
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
